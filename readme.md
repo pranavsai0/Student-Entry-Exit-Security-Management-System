@@ -1,15 +1,4 @@
-Team Name: Code MatriCx
-
-Team Members:
-S.No  Team Member Name                                       Contributions
-1.    Naga Rutwik Malapaka (BT2024091)                        Linked list
-2.    Potturu Pranav Sai (BT2024099)                          Linked list
-3.    Kommireddy Dhanush Chennakesava Reddy (BT2024169)       Designing and Linked list
-4.    Harshith Raj Varanasi (BT2024177)                       File handling
-5.    Nethi Vishwa Pradyumna (BT2024157)                      Designing and Linked list
-6.    Venkata Durga Srikar Vellanki (BT2024081)               File handling
-
-Commands
+# Commands
 1. We have 10 options 
 2. # Option 1 - **Login**
     we login into an already existing database using roll number if the roll number doesn't exist it gives an error
